@@ -16,7 +16,7 @@ nav-menu: true
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
 		<h3>We run co-design workshops for creative teams</h3>
-		<p>In order to create solutions that truly support the needs and behaviors that users have, we work systematically to understand them with empathy. Our user-centered way of working creates a deep knowledge of peoples' desires and a collaborative design thinking approach that creates unexpected creative results.</p>
+		<p>In order to create solutions that truly support the needs and behaviors that users have, we work systematically to understand them with empathy. Our user-centered way of working creates a deep knowledge of peoples' desires and our collaborative design thinking approach creates unexpected creative results.</p>
 	</div>
 		
 <dl>
