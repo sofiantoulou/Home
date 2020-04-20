@@ -1,7 +1,7 @@
 ---
 layout: post
 title: STORY
-description: Lorem ipsum dolor est
+description: We are in this together
 image: assets/images/pic12_story_bg.jpg
 nav-menu: true
 ---
