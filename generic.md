@@ -2,7 +2,7 @@
 layout: post
 title: STORY
 description: We are in this together
-image: assets/images/pic12_story_bg.jpg
+image: assets/images/pic11_story_bg.jpg
 nav-menu: true
 ---
 
