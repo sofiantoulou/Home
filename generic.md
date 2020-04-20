@@ -2,7 +2,7 @@
 layout: post
 title: STORY
 description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+image: assets/images/pic12_story_bg.jpg
 nav-menu: true
 ---
 
